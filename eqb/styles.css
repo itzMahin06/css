@@ -1631,7 +1631,8 @@ select {
 }
 
 .font-bold {
-    font-weight: 700
+    font-family: SolaimanLipi;
+    font-weight: 700;
 }
 
 .font-extrabold {
